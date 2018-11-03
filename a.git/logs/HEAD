@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540779247 +0700	clone: from https://shirotai@bitbucket.org/fticloudcamera/portal.camera.git
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540779504 +0700	checkout: moving from master to CA_001_feat_add_log_activity
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540779801 +0700	reset: moving to HEAD
+674e8c78d2b985883c08948738c9f460e8a417c2 6a7dc0a57ca6a2c20b7dfddb3ccbb8bac1e9931f Shiro <tientai206@gmail.com> 1540780852 +0700	commit: CA_001 feat add check auth and permission
+6a7dc0a57ca6a2c20b7dfddb3ccbb8bac1e9931f 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540781014 +0700	checkout: moving from CA_001_feat_add_log_activity to master
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540781077 +0700	checkout: moving from master to CA_002_feat_add_log_activity
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540785917 +0700	reset: moving to HEAD
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1540785964 +0700	reset: moving to HEAD
+674e8c78d2b985883c08948738c9f460e8a417c2 6a7dc0a57ca6a2c20b7dfddb3ccbb8bac1e9931f Shiro <tientai206@gmail.com> 1540785972 +0700	checkout: moving from CA_002_feat_add_log_activity to CA_001_feat_add_log_activity
+6a7dc0a57ca6a2c20b7dfddb3ccbb8bac1e9931f 56e94913e6271787320b86b4b473a90d78d859e7 Shiro <tientai206@gmail.com> 1540803637 +0700	commit: CA_001 feat: write log for controller in DB
+56e94913e6271787320b86b4b473a90d78d859e7 56e94913e6271787320b86b4b473a90d78d859e7 Shiro <tientai206@gmail.com> 1540804039 +0700	checkout: moving from CA_001_feat_add_log_activity to CA_001_sub_feat_add_log_activity
+56e94913e6271787320b86b4b473a90d78d859e7 56e94913e6271787320b86b4b473a90d78d859e7 Shiro <tientai206@gmail.com> 1541044222 +0700	reset: moving to HEAD
+56e94913e6271787320b86b4b473a90d78d859e7 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1541044230 +0700	checkout: moving from CA_001_sub_feat_add_log_activity to master
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1541044796 +0700	reset: moving to HEAD
+674e8c78d2b985883c08948738c9f460e8a417c2 674e8c78d2b985883c08948738c9f460e8a417c2 Shiro <tientai206@gmail.com> 1541044908 +0700	checkout: moving from master to CA_001_feat_management_cate_camera

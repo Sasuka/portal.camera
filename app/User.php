@@ -5,12 +5,10 @@ namespace App;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Tymon\JWTAuth\Contracts\JWTSubject;
-use Zizaco\Entrust\Traits\EntrustUserTrait;
-
 
 class User extends Authenticatable implements JWTSubject
 {
-    use Notifiable, EntrustUserTrait;
+    use Notifiable;
 
     /**
      * The attributes that are mass assignable.
@@ -18,7 +16,7 @@ class User extends Authenticatable implements JWTSubject
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'customer_guid', 'user_name', 'full_name', 'email', 'email_warning', 'password', 'is_system_account'
     ];
 
     /**
